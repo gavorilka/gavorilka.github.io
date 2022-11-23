@@ -22,4 +22,5 @@
 }
 .site-header {
     background: url(../img/header-bg.jpg) no-repeat;
+    height: 600px;
 }
