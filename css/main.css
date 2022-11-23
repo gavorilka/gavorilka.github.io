@@ -20,3 +20,6 @@
 .container {
     margin: 0 6.25%;
 }
+.site-header {
+    background: url(../img/header-bg.jpg) no-repeat;
+}
